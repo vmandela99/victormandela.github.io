@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "victormandela.github.io"
+  title: "Research, data and web apps"
   navbar:
     left:
       - href: index.qmd
