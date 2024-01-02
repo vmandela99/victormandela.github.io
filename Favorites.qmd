@@ -1,0 +1,20 @@
+---
+title: "Favorites"
+editor: visual
+---
+
+## Favorite Dog breeds
+
+-   Great Dane
+
+-   Bull dogs
+
+-   Japanese spits
+
+## Favorite Characters from lord of the rings
+
+-   Samwise Gangee
+
+-   Lagolas
+
+-   Aragorn
