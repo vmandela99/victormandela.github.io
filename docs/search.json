@@ -12,5 +12,26 @@
     "title": "About",
     "section": "",
     "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "Favorites.html",
+    "href": "Favorites.html",
+    "title": "Favorites",
+    "section": "",
+    "text": "Great Dane\nBull dogs\nJapanese spits"
+  },
+  {
+    "objectID": "Favorites.html#favorite-dog-breeds",
+    "href": "Favorites.html#favorite-dog-breeds",
+    "title": "Favorites",
+    "section": "",
+    "text": "Great Dane\nBull dogs\nJapanese spits"
+  },
+  {
+    "objectID": "Favorites.html#favorite-characters-from-lord-of-the-rings",
+    "href": "Favorites.html#favorite-characters-from-lord-of-the-rings",
+    "title": "Favorites",
+    "section": "Favorite Characters from lord of the rings",
+    "text": "Favorite Characters from lord of the rings\n\nSamwise Gangee\nLagolas\nAragorn"
   }
 ]
